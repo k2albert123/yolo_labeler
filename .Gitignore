@@ -1,3 +1,7 @@
 /venv
 *.txt
 *.jpg
+/raw_dataset
+/dataset
+/removed_images
+/removed_labels
