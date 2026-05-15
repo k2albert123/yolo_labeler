@@ -5,3 +5,8 @@
 /dataset
 /removed_images
 /removed_labels
+*.pt
+*.onnx
+*.png
+/training_runs
+/runs
